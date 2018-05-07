@@ -1,0 +1,12 @@
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\bin\Debug\netcoreapp2.0\Descriptions.xml
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\bin\Debug\netcoreapp2.0\SubmissionUtility.deps.json
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\bin\Debug\netcoreapp2.0\SubmissionUtility.runtimeconfig.json
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\bin\Debug\netcoreapp2.0\SubmissionUtility.runtimeconfig.dev.json
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\bin\Debug\netcoreapp2.0\SubmissionUtility.dll
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\bin\Debug\netcoreapp2.0\SubmissionUtility.pdb
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\obj\Debug\netcoreapp2.0\SubmissionUtility.csprojResolveAssemblyReference.cache
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\obj\Debug\netcoreapp2.0\SubmissionUtility.csproj.CoreCompileInputs.cache
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\obj\Debug\netcoreapp2.0\SubmissionUtility.AssemblyInfoInputs.cache
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\obj\Debug\netcoreapp2.0\SubmissionUtility.AssemblyInfo.cs
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\obj\Debug\netcoreapp2.0\SubmissionUtility.dll
+C:\Aristocrat\Projects\CDS\Source\utils\Aristocrat.CDS.Utils\SubmissionUtility\obj\Debug\netcoreapp2.0\SubmissionUtility.pdb

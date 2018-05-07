@@ -1,0 +1,566 @@
+System File,Description,Manifest SHA1
+Central.dacpac,Central Computer Database Deployment Package,CEFA35205237D578EF6BFA463DE550915FF4124B
+Management.dacpac,Management Application Database Deployment Package,91A6E04A4750EA9EE82152E07DB3C35679B97EC0
+Manufacturing.dacpac,Manufacturing Computer Database Deployment Package,D092C5ADDB81C1624D7E5592A2E694E47F21DD33
+Aristocrat.CDS.Central.API.deps.json,Assembly Dependencies,D9F4092BDE1975FFEE8143A5B2D00481FBB0194A
+Aristocrat.CDS.Central.API.exe,Central Computer Rest API Service,38DEB6560C0C6A1FA6B35319B49EA1346515BF2E
+Aristocrat.CDS.Central.API.xml,XML Help File,5CF9141797D278395267A4C26F8C6E91AA86F68B
+Aristocrat.CDS.Central.Background.dll,Central Computer Background Job Processing Library,25DFE854A6EA7A851D5AB1BE897FA1693D03253B
+Aristocrat.CDS.Central.Background.xml,XML Help File,CF5A55E875FCF03B15D08D66334C23B5F2EFB4B1
+Aristocrat.CDS.Central.Domain.dll,Central Computer Object Model Library,581B76B8402346BAEC153F79EC97E980EAFA9D7C
+Aristocrat.CDS.Central.Domain.xml,XML Help File,A287219635935934C310F4FFD2BBBC15C45ED143
+Aristocrat.CDS.Central.Infrastructure.dll,Central Computer Infrastructure Library,CF89567E8B906174B8E51861DDA71FF53EA2446D
+Aristocrat.CDS.Central.Infrastructure.xml,XML Help File,F759B5A51A6BCFEFC4E336E2ACF77C87CA980402
+Aristocrat.CDS.Common.API.dll,ATLS Core Rest API Library,FD4C6E94CEB45DA594EBDBAD2545BA410170B617
+Aristocrat.CDS.Common.API.xml,XML Help File,4023E71F628387B34EEED64645CEE3550BE0D65D
+Aristocrat.CDS.Common.Contracts.dll,ATLS Core Definition Library,3083FFD3106A7521F60C73610934B9144729851F
+Aristocrat.CDS.Common.Contracts.xml,XML Help File,6905158906816D8A9158CAEC50529EF88AC07391
+Aristocrat.CDS.Common.Infrastructure.dll,ATLS Core Infrastructure Library,466E42DD9977E791ECF3EC4A285D5CA74222E97B
+Aristocrat.CDS.Common.Infrastructure.xml,XML Help File,DA5A9FCDAF7DA5F4AE6D2E2D710D6CD80DBE0D68
+Castle.Core.dll,Third-party Dependency Injection Library,3EA70FF206A9B76F3BF8C5CCE6A3F4B406A4F697
+Dapper.dll,Third-party ORM Library,A3B5250C6655EF9D8A230A5944FAAFD68677D8A4
+es/Hangfire.Core.resources.dll,Third-party .Net Job Processing Spanish Resource Library,CFABA903E1FFD4051A913B96A6FEDAF00CA47E7C
+GreenPipes.dll,Third-party ASP.Net Messaging Pipeline Library,E06C668B25E2060744FF485C461BFACAEDA5B9A8
+Hangfire.AspNetCore.dll,Third-party ASP.Net Core Job Processing Library,6B4B864E4F7FC0A3015C8555278B55CFABF8A52F
+Hangfire.Core.dll,Third-party .Net Core Job Processing Library,D3FE74DDCB8EAAC25A5200D56291410D3948E83B
+Hangfire.MemoryStorage.dll,Third-party .Net Job Processing Library,FDD0D34CFB1E2B45FC760862258923E4160AAC0F
+Hangfire.SqlServer.dll,Third-party .Net Job Processing Library,12FAE8BF6972C4B158DC901C751F754898F28175
+libuv.dll,Third-party .NET Asynchronous I/O Library,D0B7371AF446000AC4157FE9A75147A927597462
+MassTransit.dll,Third-party .NET MassTrasit Messaging Library,4484B561AA1253787FC2C09A7503EFF286A61890
+MassTransit.RabbitMqTransport.dll,Third-party .NET RabbitMQ MassTrasit Messaging Library,87479FF41797328B67FDF6308CA60BC3C882B03C
+Microsoft.AspNetCore.Antiforgery.dll,Third-party Microsoft ASP.NET Core Library,AB76074D3BE8D3CC651B2FA0CF8377BBAC0EE9CD
+Microsoft.AspNetCore.Authentication.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,97C0D89602A1819CF1C9D82F758A1F1A8985BF59
+Microsoft.AspNetCore.Authentication.Core.dll,Third-party Microsoft ASP.NET Core Library,6D9DC07022B4B5611B25B18F87C8D430AC42D348
+Microsoft.AspNetCore.Authorization.dll,Third-party Microsoft ASP.NET Core Library,FB3F09FC7355330B8D4376252B3C43D40A48ADDC
+Microsoft.AspNetCore.Authorization.Policy.dll,Third-party Microsoft ASP.NET Core Library,B38B2245BCF244879C93B382626FF385C45ACFD4
+Microsoft.AspNetCore.Cors.dll,Third-party Microsoft ASP.NET Core Library,522BF85C8D646F013F617B00C43E7C9F4683F488
+Microsoft.AspNetCore.Cryptography.Internal.dll,Third-party Microsoft ASP.NET Core Library,BF3A7AC12FF0F63CB8F4E0D630503649D0D452CE
+Microsoft.AspNetCore.DataProtection.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,8F45DD43D3815DF76ABA0AFA25DB7DD900A02547
+Microsoft.AspNetCore.DataProtection.dll,Third-party Microsoft ASP.NET Core Library,75E758667BE2931D52B26357033C86B3691A98D1
+Microsoft.AspNetCore.Diagnostics.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,122D6A054F30FFA42CC52CC0410BD29C7DB8BFEE
+Microsoft.AspNetCore.Diagnostics.dll,Third-party Microsoft ASP.NET Core Library,89A12BAE959C2A8917C2C018007E044DA6A6FF5B
+Microsoft.AspNetCore.dll,Third-party Microsoft ASP.NET Core Library,F8FCDFCE0FD09A7D0D2AE2223658CA81577D57DC
+Microsoft.AspNetCore.Hosting.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,38EC3B0B1EC11477383966DC1A89F4E7D014A456
+Microsoft.AspNetCore.Hosting.dll,Third-party Microsoft ASP.NET Core Library,609C92B016934D757B5B6CA1D8A809344F0FAC61
+Microsoft.AspNetCore.Hosting.Server.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,CBD521C8721191FB8FD954AD758ED8012C0CEE0C
+Microsoft.AspNetCore.Html.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,24E210D5574C1D9F00E90B3F5E73DA4DBFC073A1
+Microsoft.AspNetCore.Http.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,9CE24D788C319D236A2BDE4172C19CCF4396C80A
+Microsoft.AspNetCore.Http.dll,Third-party Microsoft ASP.NET Core Library,6477DBAB735C0B18B16B366D1266EB2A7BD61AD2
+Microsoft.AspNetCore.Http.Extensions.dll,Third-party Microsoft ASP.NET Core Library,4F7864E5C48D6EE243E930A291B5B9AB2551DCDC
+Microsoft.AspNetCore.Http.Features.dll,Third-party Microsoft ASP.NET Core Library,1DB8C2873DD289EC00B29BE00331F3CF89E51FA8
+Microsoft.AspNetCore.HttpOverrides.dll,Third-party Microsoft ASP.NET Core Library,93464856032A2FB8CCBBC338A8BD937402792B6C
+Microsoft.AspNetCore.JsonPatch.dll,Third-party Microsoft ASP.NET Core Library,87935D333AFB66A769DFC5D8803788748D86DE8B
+Microsoft.AspNetCore.Localization.dll,Third-party Microsoft ASP.NET Core Library,C8E9BAB05691C87F1ED9C9FF62CC151FD06B2C9B
+Microsoft.AspNetCore.Mvc.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,1A25B29D1F52BBACEC15A77448AF9C7572513F9F
+Microsoft.AspNetCore.Mvc.ApiExplorer.dll,Third-party Microsoft ASP.NET Core Library,DACC5F00181B06DCA6608B7778A400BFE16BCE2B
+Microsoft.AspNetCore.Mvc.Core.dll,Third-party Microsoft ASP.NET Core Library,4475F262E70FA1EFDF8F02C1C01EC2217B621ED6
+Microsoft.AspNetCore.Mvc.Cors.dll,Third-party Microsoft ASP.NET Core Library,4EB487F6FBE08770793B899CAFE33233822C2245
+Microsoft.AspNetCore.Mvc.DataAnnotations.dll,Third-party Microsoft ASP.NET Core Library,2DB5FC0161AF74E7CE20547C571C3C7BFAE0AEB2
+Microsoft.AspNetCore.Mvc.dll,Third-party Microsoft ASP.NET Core Library,37AF8BC52E304CB9074C214C15B8D8DBD40D3038
+Microsoft.AspNetCore.Mvc.Formatters.Json.dll,Third-party Microsoft ASP.NET Core Library,12BC714A3B951C258E426FAB2A73A625A47291EF
+Microsoft.AspNetCore.Mvc.Formatters.Xml.dll,Third-party Microsoft ASP.NET Core Library,6BBC64975FB92173923C63062FFEC7516B9B250A
+Microsoft.AspNetCore.Mvc.Localization.dll,Third-party Microsoft ASP.NET Core Library,089491FDB105D7A744180204312D0CFE3243A64F
+Microsoft.AspNetCore.Mvc.Razor.dll,Third-party Microsoft ASP.NET Core Library,4D06EA293614F51864BC1E3ADA8B53AA734DEBBD
+Microsoft.AspNetCore.Mvc.Razor.Extensions.dll,Third-party Microsoft ASP.NET Core Library,0EFE95BC60418AFE5B89EFF66A0E0573178272C6
+Microsoft.AspNetCore.Mvc.RazorPages.dll,Third-party Microsoft ASP.NET Core Library,11F727CD758CB666EAB9CC247524B0B721B89723
+Microsoft.AspNetCore.Mvc.TagHelpers.dll,Third-party Microsoft ASP.NET Core Library,709D303C5A0BBE7B77D89EDC7A8B17371A52C1EA
+Microsoft.AspNetCore.Mvc.ViewFeatures.dll,Third-party Microsoft ASP.NET Core Library,1748311E17E6AE9A8415A20FF3613ACD04C6024D
+Microsoft.AspNetCore.Razor.dll,Third-party Microsoft ASP.NET Core Library,D409B0EFFD3CCD7FF158AEB759BEA5B12BC4BB91
+Microsoft.AspNetCore.Razor.Language.dll,Third-party Microsoft ASP.NET Core Library,C0BC34B2C1C0950434257F9FCEE39E10BAD69931
+Microsoft.AspNetCore.Razor.Runtime.dll,Third-party Microsoft ASP.NET Core Library,57FF6846C53F4E93BC2BC9A02F6644C216EFC16A
+Microsoft.AspNetCore.ResponseCaching.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,263D0FAC2D449C8FC7A1BF4F3D0CA49536F87C36
+Microsoft.AspNetCore.Routing.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,A09D3498D870DCE37C384A63A96558D98B7F8A08
+Microsoft.AspNetCore.Routing.dll,Third-party Microsoft ASP.NET Core Library,4B5820C309D889FE9F1C816BC11AAE23455750BD
+Microsoft.AspNetCore.Server.IISIntegration.dll,Third-party Microsoft ASP.NET Core Library,51F7CBDD8EB14B904D7DD52235755358AC0E433B
+Microsoft.AspNetCore.Server.Kestrel.Core.dll,Third-party Microsoft ASP.NET Core Library,0C679CFC4B3F602C1B38B40F4D2B5FF517C42630
+Microsoft.AspNetCore.Server.Kestrel.dll,Third-party Microsoft ASP.NET Core Library,442AEF32C7718B0456ED16B669B326F2180CEF5F
+Microsoft.AspNetCore.Server.Kestrel.Https.dll,Third-party Microsoft ASP.NET Core Library,2365B2E6A175FBD488B26D37496AF5C92113269B
+Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll,Third-party Microsoft ASP.NET Core Library,1DFD37BF466D2B692805D6C94C3553A5255B39F2
+Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll,Third-party Microsoft ASP.NET Core Library,5008F5E86FDC3507DEB2C719D1155AE5FD72FFFF
+Microsoft.AspNetCore.StaticFiles.dll,Third-party Microsoft ASP.NET Core Library,CDD9D1C02CFA5AB36F9E0F0318370F0237CDD490
+Microsoft.AspNetCore.WebUtilities.dll,Third-party Microsoft ASP.NET Core Library,4D43E556F1DE687124590FE152306D17211FDE50
+Microsoft.CodeAnalysis.CSharp.dll,Third-party Microsoft .NET Framework Library,236271D2AB4E9EB221C722DA51EBE82F797C28CD
+Microsoft.CodeAnalysis.dll,Third-party Microsoft .NET Framework Library,9A0857233CF6A36D6539297828C6BD1BD5D51D66
+Microsoft.CodeAnalysis.Razor.dll,Third-party Microsoft .NET Framework Library,61196AD57AFE4BC9E69E8C6A3288208E2BE10851
+Microsoft.Diagnostics.Tracing.EventSource.dll,Third-party Microsoft .NET Framework Library,B90CD2AFF0492E4118B7F66B817F12C10C714D17
+Microsoft.DotNet.PlatformAbstractions.dll,Third-party Microsoft .NET Framework Library,DC6B01D5C414761D35EAB2E69ACF600ADFFC2C27
+Microsoft.Extensions.Caching.Abstractions.dll,Third-party Microsoft .NET Framework Library,7D2B0A190379B42A866FF447292DF42DE1F5FA95
+Microsoft.Extensions.Caching.Memory.dll,Third-party Microsoft .NET Framework Library,171CC12A9821B84CC2D0AEDE7638653B719584A5
+Microsoft.Extensions.Configuration.Abstractions.dll,Third-party Microsoft .NET Framework Library,610F1A0EE21A40A56B4E641E92C2FC0EE6EBFD8E
+Microsoft.Extensions.Configuration.Binder.dll,Third-party Microsoft .NET Framework Library,FAC4C274A5C2111CBB22C0611BBB7F2013B161DC
+Microsoft.Extensions.Configuration.CommandLine.dll,Third-party Microsoft .NET Framework Library,82E02BE8316025266C991D71AF11DC87155684A8
+Microsoft.Extensions.Configuration.dll,Third-party Microsoft .NET Framework Library,F33C9355F73E466F0078448E612217CEF10BCAAA
+Microsoft.Extensions.Configuration.EnvironmentVariables.dll,Third-party Microsoft .NET Framework Library,4EFD9EFE2AF1CE4C28D2A44E684B555E808E4F0C
+Microsoft.Extensions.Configuration.FileExtensions.dll,Third-party Microsoft .NET Framework Library,B9A4C30528C33D5FBD131D4E7BC8731F1A00F9C2
+Microsoft.Extensions.Configuration.Json.dll,Third-party Microsoft .NET Framework Library,6720D2F8057289CCE4AF444E8E63429E3C477F99
+Microsoft.Extensions.Configuration.UserSecrets.dll,Third-party Microsoft .NET Framework Library,825CB0DA89143CB843690C3BE8D3241902BEAB5F
+Microsoft.Extensions.DependencyInjection.Abstractions.dll,Third-party Microsoft .NET Framework Library,70ED8EE6630E547125267DFB19FD2B14A0875EA6
+Microsoft.Extensions.DependencyInjection.dll,Third-party Microsoft .NET Framework Library,C0165E641B968DC5EB6BCE4DEE373F2EFB4193FD
+Microsoft.Extensions.DependencyModel.dll,Third-party Microsoft .NET Framework Library,4B9A4FF8AA6C5DD7B238D5FDD8B7ADE199DE4E0F
+Microsoft.Extensions.FileProviders.Abstractions.dll,Third-party Microsoft .NET Framework Library,F9A627228B6730D7716682CF196D24EAAFBB31D3
+Microsoft.Extensions.FileProviders.Composite.dll,Third-party Microsoft .NET Framework Library,A2E595249F4CA1756D6D34565DF69D7AF8E292B4
+Microsoft.Extensions.FileProviders.Embedded.dll,Third-party Microsoft .NET Framework Library,03AF13269E55D785C2B7D1778A6A668750F8F6C6
+Microsoft.Extensions.FileProviders.Physical.dll,Third-party Microsoft .NET Framework Library,AEF549795C022258A0108B2666863043BE72A01E
+Microsoft.Extensions.FileSystemGlobbing.dll,Third-party Microsoft .NET Framework Library,62437B4EB1830437E72BD870EE85DFF344D4F5AF
+Microsoft.Extensions.Hosting.Abstractions.dll,Third-party Microsoft .NET Framework Library,1CAC77A1AC52BD928ED1C32661E66FD8E7D27701
+Microsoft.Extensions.Localization.Abstractions.dll,Third-party Microsoft .NET Framework Library,D815B3B4E21A7E2FD44447831B9AFED5AE63BC09
+Microsoft.Extensions.Localization.dll,Third-party Microsoft .NET Framework Library,D5F6C34468F80CE79063C90059BD3373112DB4E9
+Microsoft.Extensions.Logging.Abstractions.dll,Third-party Microsoft .NET Framework Library,BA181221ADD6B9E0C0A72E96C3F5A6A852C6920F
+Microsoft.Extensions.Logging.Configuration.dll,Third-party Microsoft .NET Framework Library,217EE88ABEE08424E11F9EA90C72B78B026E2EB1
+Microsoft.Extensions.Logging.Console.dll,Third-party Microsoft .NET Framework Library,1BC6E351FB37D921780739B090D6A843E330D569
+Microsoft.Extensions.Logging.Debug.dll,Third-party Microsoft .NET Framework Library,FA1C4398F2AAC28F7A68796741BF8C139EFA15C9
+Microsoft.Extensions.Logging.dll,Third-party Microsoft .NET Framework Library,3E3DDF9AE18D41CF2BC44CD4B19539816B205FF6
+Microsoft.Extensions.ObjectPool.dll,Third-party Microsoft .NET Framework Library,814D6C5CD401EDC760BA8B562C8452F8A6368112
+Microsoft.Extensions.Options.ConfigurationExtensions.dll,Third-party Microsoft .NET Framework Library,13366F6281129D7F501370528C90F837FDAD33AF
+Microsoft.Extensions.Options.dll,Third-party Microsoft .NET Framework Library,212628D9551D605CFDD47F1A48690EC85DDDBBFE
+Microsoft.Extensions.Primitives.dll,Third-party Microsoft .NET Framework Library,B6606F6BEB39A2F1645E20996307C21DB1C569FA
+Microsoft.Extensions.WebEncoders.dll,Third-party Microsoft .NET Framework Library,891E454B32E1F0C4921D300842D4752885BFC537
+Microsoft.Net.Http.Headers.dll,Third-party Microsoft .NET Framework Library,9FBFE65616107C992E6517AF1552C67BA90A0C64
+Microsoft.Owin.dll,Third-party Microsoft .NET Framework Library,4F08A2CCE44CBA6CE4EB91EBBE8238DD19A12A10
+Microsoft.Owin.Host.SystemWeb.dll,Third-party Microsoft .NET Framework Library,B1BADB19F235C801C010908C49FDD0929918DBB5
+Microsoft.Win32.Primitives.dll,Third-party Microsoft .NET Framework Library,7E9A6F64788FEE9BC59A336776D708CF15FFA724
+Microsoft.Win32.Registry.dll,Third-party Microsoft .NET Framework Library,9905DDB224DC2A8AC1ED1D92AE338BBB3A67E228
+netstandard.dll,Third-party Microsoft .NET Core Library,1DE11FB25075E81250C4C47AD80265CC98C44C3E
+NewId.dll,Third-party Unique Identifier Libray,E920C191136055AD35153477E5E2C1D8448BD6FA
+Newtonsoft.Json.Bson.dll,Third-party Newtonsoft Json Library,77C0A72EAC8B3D48B40AD562B85674AF755C40D8
+Newtonsoft.Json.dll,Third-party Newtonsoft Json Library,2FB0BE100DE03680FC4309C9FA5A29E69397A980
+Owin.dll,Third-party .NET Open Web Interface Library,A064258C415E3451E39725D4D970EC903B8DBC8A
+Polly.dll,Third-party .NET Fault Handling Library,43D445FCE3E2C19B89AAC7CD9B00223449070CC3
+RabbitMQ.Client.dll,Third-party RabbitMQ Client Library,BE2655A4C450C7A9A322841AC9F49C1717D08F60
+Refit.dll,Third-party Rest API Client Library,FAAC3575B8981656CF5E6C2F92D1CA08CB9BD92C
+refs/Microsoft.CSharp.dll,Third-party Microsoft .NET Framework Library,131A8F5395AA2584E443060A0C3B21595A337395
+refs/Microsoft.Win32.Primitives.dll,Third-party Microsoft .NET Framework Library,E2EB6AD3E37A46292726803293AC79032B323A8D
+refs/Microsoft.Win32.Registry.dll,Third-party Microsoft .NET Framework Library,2FA20C55FCFF6BB318A13F2ABBD8BF067B1EC943
+refs/mscorlib.dll,Third-party Microsoft .NET Framework Library,DD9C78024B1EE801BC288885D0CF274A56AA497B
+refs/netfx.force.conflicts.dll,Third-party Microsoft .NET Core Library,E473AA9B30EA52B494441B497C403F9A8556D12A
+refs/netstandard.dll,Third-party Microsoft .NET Core Library,1DE11FB25075E81250C4C47AD80265CC98C44C3E
+refs/System.AppContext.dll,Third-party Microsoft .NET Framework Library,205393052100F7A26B8535BC23808271CA1C4846
+refs/System.Buffers.dll,Third-party Microsoft .NET Framework Library,35C28C0317837EB80AE0DF89DF0F99DAA01CB841
+refs/System.Collections.Concurrent.dll,Third-party Microsoft .NET Framework Library,CEC1FB368DE0B22040A2A0CED3B1D5CE29BF8EBA
+refs/System.Collections.dll,Third-party Microsoft .NET Framework Library,FEAF6967E1651FA7E20F4A1F03A71253030667A3
+refs/System.Collections.NonGeneric.dll,Third-party Microsoft .NET Framework Library,B5B73EFCE6DC8874047818396C830402A0FBD42D
+refs/System.Collections.Specialized.dll,Third-party Microsoft .NET Framework Library,70F2DB82CF9A58FFA5144A337D44CA850F4A77BC
+refs/System.ComponentModel.Annotations.dll,Third-party Microsoft .NET Framework Library,CB2734745F585AD30421FF7092A75819461F9B77
+refs/System.ComponentModel.Composition.dll,Third-party Microsoft .NET Framework Library,B43A976B1A7AEB824DF352BB3D91597BCE935BA9
+refs/System.ComponentModel.DataAnnotations.dll,Third-party Microsoft .NET Framework Library,753612B5A3F0A548A66C4FA00BB82C9EB8A88374
+refs/System.ComponentModel.dll,Third-party Microsoft .NET Framework Library,644D0DE73EA484982A730C556295AFC24CA51837
+refs/System.ComponentModel.EventBasedAsync.dll,Third-party Microsoft .NET Framework Library,32B3B3EC3A41651B2A1E8C4B1EA188654AF9261D
+refs/System.ComponentModel.Primitives.dll,Third-party Microsoft .NET Framework Library,43E19ECA6F55674D30955E4342FB43D8C6597EAA
+refs/System.ComponentModel.TypeConverter.dll,Third-party Microsoft .NET Framework Library,C7186F4C9568B56CC821FBDD429DD95E76ADE96C
+refs/System.Configuration.dll,Third-party Microsoft .NET Framework Library,9AA5722377C85975E57EC525FF129E423C3F4E99
+refs/System.Console.dll,Third-party Microsoft .NET Framework Library,5CF647F1C15BB1EDE52EC53909A06505C7F392AA
+refs/System.Core.dll,Third-party Microsoft .NET Framework Library,56BD9816C46A023D6EB9DDFF7C6B7203C7F0AC82
+refs/System.Data.Common.dll,Third-party Microsoft .NET Framework Library,2DA0ECD258FF8A27858E9E2EFD8254DEC98BF76C
+refs/System.Data.dll,Third-party Microsoft .NET Framework Library,288187B3C1024BDFC020E703145CD0ADE18F75EB
+refs/System.Data.SqlClient.dll,Third-party Microsoft .NET Framework Library,2A9F06D7A0F7131FA8A245F77670A3779904C376
+refs/System.Diagnostics.Contracts.dll,Third-party Microsoft .NET Framework Library,6AFE9C95C88ED293715BDCCB983C73D6C16E662B
+refs/System.Diagnostics.Debug.dll,Third-party Microsoft .NET Framework Library,72E07383C53DCF6998469E80D682983ADB167DAD
+refs/System.Diagnostics.FileVersionInfo.dll,Third-party Microsoft .NET Framework Library,F31EFC9A884DFA4B91F6365077A1C878BBA73943
+refs/System.Diagnostics.Process.dll,Third-party Microsoft .NET Framework Library,CE00B4CD39B94A56CC01A2E8C1929BFB4EF5F909
+refs/System.Diagnostics.StackTrace.dll,Third-party Microsoft .NET Framework Library,BCC4457524D3D2F0AAF7EF181E968CF786ECB1C0
+refs/System.Diagnostics.TextWriterTraceListener.dll,Third-party Microsoft .NET Framework Library,A263432AE83BBF135CCEE7737C1310434636FAA1
+refs/System.Diagnostics.Tools.dll,Third-party Microsoft .NET Framework Library,2466E1E194141E368B7ADFAA916513B2F4A6740C
+refs/System.Diagnostics.TraceSource.dll,Third-party Microsoft .NET Framework Library,F327E80EAFECA57BAE10ED2FF476504E62E44141
+refs/System.Diagnostics.Tracing.dll,Third-party Microsoft .NET Framework Library,F3FEFDAD96C530477FCACE98F91E1545D4130AD6
+refs/System.dll,Third-party Microsoft .NET Framework Library,5AA841ABE98C95A76BB0A8E766881FC14649AF33
+refs/System.Drawing.dll,Third-party Microsoft .NET Framework Library,C972E4B6E70611A6DC0363618854A98EF5041A49
+refs/System.Drawing.Primitives.dll,Third-party Microsoft .NET Framework Library,3A4BB76EA068D17A1FD6C47FE89B4E9F484DF01E
+refs/System.Dynamic.Runtime.dll,Third-party Microsoft .NET Framework Library,28FB4F88CB000AB6B8D7590442892FAF347737FC
+refs/System.Globalization.Calendars.dll,Third-party Microsoft .NET Framework Library,70B7CD6A205B3BE07D0E972CD5E9A3C8577E4035
+refs/System.Globalization.dll,Third-party Microsoft .NET Framework Library,71484B0F3F3F4E47BD3D35B7B81523D817585E38
+refs/System.Globalization.Extensions.dll,Third-party Microsoft .NET Framework Library,C455BBA7384D3AD44F76BE6DF170848FBB44801B
+refs/System.IO.Compression.dll,Third-party Microsoft .NET Framework Library,542F3E7DA5EBF23C7EBC5FE3697A64D5900759B1
+refs/System.IO.Compression.FileSystem.dll,Third-party Microsoft .NET Framework Library,928F79CD3071A38B5F34039FBF0532CCD56ADEBE
+refs/System.IO.Compression.ZipFile.dll,Third-party Microsoft .NET Framework Library,1DE991DBF0AEF43611A05E6B3ABA0EEADEC614EE
+refs/System.IO.dll,Third-party Microsoft .NET Framework Library,AD4295C5BF02821190BD5715F8D9247A8B4084EA
+refs/System.IO.FileSystem.dll,Third-party Microsoft .NET Framework Library,20D80BC7BE07F5B54AE03591101A2381FBE6138A
+refs/System.IO.FileSystem.DriveInfo.dll,Third-party Microsoft .NET Framework Library,A72A065189F56C37A3C82DE0F85C7EE2882B0F83
+refs/System.IO.FileSystem.Primitives.dll,Third-party Microsoft .NET Framework Library,A31C10384CC33B0E293F7C25FF841445B8020309
+refs/System.IO.FileSystem.Watcher.dll,Third-party Microsoft .NET Framework Library,0D5BEEF70E8B4BD4AC1454BBEB6E22BA2411FC23
+refs/System.IO.IsolatedStorage.dll,Third-party Microsoft .NET Framework Library,93EC8BEBB799D3B06DBB94131343421A5EFE799C
+refs/System.IO.MemoryMappedFiles.dll,Third-party Microsoft .NET Framework Library,F6A6A0C121C4D19214CAAB539843215A2BD2D383
+refs/System.IO.Pipes.dll,Third-party Microsoft .NET Framework Library,653F58078A74B92F7AFFE4617647EF47F16C6E9B
+refs/System.IO.UnmanagedMemoryStream.dll,Third-party Microsoft .NET Framework Library,3C6476941022E2B6328E42B8CF20F88CC7D7C086
+refs/System.Linq.dll,Third-party Microsoft .NET Framework Library,B3FAC701990ABBFD4525FD6ADC9C43712D521102
+refs/System.Linq.Expressions.dll,Third-party Microsoft .NET Framework Library,692D5612875A5D1103CE7FB3CBC78C5A1544C1ED
+refs/System.Linq.Parallel.dll,Third-party Microsoft .NET Framework Library,1600B4C12DD566E82F42A368522B9502F83CB1DD
+refs/System.Linq.Queryable.dll,Third-party Microsoft .NET Framework Library,2C908D2809DE048F5192DDDEA5B76FA0EFEF4656
+refs/System.Net.Http.dll,Third-party Microsoft .NET Framework Library,7FE7CBFEB37E1A811F12A305D6D257EF4A56CF0D
+refs/System.Net.NameResolution.dll,Third-party Microsoft .NET Framework Library,CF91EE9A53B304599D2541B74E91AA077419AD39
+refs/System.Net.NetworkInformation.dll,Third-party Microsoft .NET Framework Library,84A7E89BC92472FEA2A7E8E5878E1E110F7C363C
+refs/System.Net.Ping.dll,Third-party Microsoft .NET Framework Library,97A07B487550AC4230BD328D96630B9ACD5ADAD2
+refs/System.Net.Primitives.dll,Third-party Microsoft .NET Framework Library,7467A0CBFFEBEF198573DA20ED4461A3220A13A4
+refs/System.Net.Requests.dll,Third-party Microsoft .NET Framework Library,CB6B55BA03163D2D2BBCB8ABC5F9F7E236A56981
+refs/System.Net.Security.dll,Third-party Microsoft .NET Framework Library,C9BD680782D9460D0BD048B0731928535595CF98
+refs/System.Net.Sockets.dll,Third-party Microsoft .NET Framework Library,80FBF4177CBBF1B6F7DD354AFD027ACB65197789
+refs/System.Net.WebHeaderCollection.dll,Third-party Microsoft .NET Framework Library,B27BADF9C22C6C12A4B8AF3EEECE67B02CC68184
+refs/System.Net.WebSockets.Client.dll,Third-party Microsoft .NET Framework Library,E966009801607FC4573855B740E8C51101454565
+refs/System.Net.WebSockets.dll,Third-party Microsoft .NET Framework Library,5479D868CCFA10C0A1B184924065AC07BC46CE17
+refs/System.Numerics.dll,Third-party Microsoft .NET Framework Library,F2E559E8D13A4FCAC8BDC9D6E693794548D4C99C
+refs/System.Numerics.Vectors.dll,Third-party Microsoft .NET Framework Library,DD9312648C2621178759258527C58143D6D226FB
+refs/System.ObjectModel.dll,Third-party Microsoft .NET Framework Library,2944EC0ABE20BE073B40728916E4BB4DF75BD131
+refs/System.Reflection.dll,Third-party Microsoft .NET Framework Library,BF522D4F37A6F7E32059281CE64E7B55D968C805
+refs/System.Reflection.Emit.dll,Third-party Microsoft .NET Framework Library,3E9598F81BF2AB26610848BC47BE6B335E1C8170
+refs/System.Reflection.Emit.ILGeneration.dll,Third-party Microsoft .NET Framework Library,AEAFC8E2817D5347207CB00D5FC2F201B9258A69
+refs/System.Reflection.Emit.Lightweight.dll,Third-party Microsoft .NET Framework Library,DC79F11E7AEA7576F49D14CD626FF07EA51ADE3D
+refs/System.Reflection.Extensions.dll,Third-party Microsoft .NET Framework Library,292EBBA9148F29819B5D385B51B446264502F8F5
+refs/System.Reflection.Primitives.dll,Third-party Microsoft .NET Framework Library,AA80F80B400E7737920E3D099F013D64B914D0EA
+refs/System.Resources.Reader.dll,Third-party Microsoft .NET Framework Library,807598610329D2ACFBB15D25AB7D03D9F75B61A6
+refs/System.Resources.ResourceManager.dll,Third-party Microsoft .NET Framework Library,81D3BEBB476FC6EA7084E0B0D4DF2F32FAD833DE
+refs/System.Resources.Writer.dll,Third-party Microsoft .NET Framework Library,84C9CA2B5D733E5284E64855B847FBE31DFE7B94
+refs/System.Runtime.CompilerServices.Unsafe.dll,Third-party Microsoft .NET Framework Library,788F03099970CCF819E34B1B8CB61ED8183B7E58
+refs/System.Runtime.CompilerServices.VisualC.dll,Third-party Microsoft .NET Framework Library,AC47C55A978908570CB36FC7BA2A18CC9BC39932
+refs/System.Runtime.dll,Third-party Microsoft .NET Framework Library,52C9695150C78C7F4C1AB328A803D715471B81BA
+refs/System.Runtime.Extensions.dll,Third-party Microsoft .NET Framework Library,F42ACA592F30CDD93C673507E4C8B742A074B7B9
+refs/System.Runtime.Handles.dll,Third-party Microsoft .NET Framework Library,C32BDAD7E17619FC17CE60AE692165A9821D01D8
+refs/System.Runtime.InteropServices.dll,Third-party Microsoft .NET Framework Library,353259605EB45F224D3AE29C405F093CF6DD3A23
+refs/System.Runtime.InteropServices.RuntimeInformation.dll,Third-party Microsoft .NET Framework Library,526BF6865E2227012230F854F2AB432D58967EBC
+refs/System.Runtime.InteropServices.WindowsRuntime.dll,Third-party Microsoft .NET Framework Library,774DB60C61E1000B90D0A991AA4768502B644F80
+refs/System.Runtime.Numerics.dll,Third-party Microsoft .NET Framework Library,B3531DBD69945A7067FAB80F45AA3C973FFD5127
+refs/System.Runtime.Serialization.dll,Third-party Microsoft .NET Framework Library,9872BB17A45181B1E01C9F95DF4AC7A092932D1B
+refs/System.Runtime.Serialization.Formatters.dll,Third-party Microsoft .NET Framework Library,FAD42F21A5FB77CC1CA5BD6A4478355F02F4530A
+refs/System.Runtime.Serialization.Json.dll,Third-party Microsoft .NET Framework Library,2BDB0B0AFD847D14C8CEB45FA75F23CF348ABC83
+refs/System.Runtime.Serialization.Primitives.dll,Third-party Microsoft .NET Framework Library,C098D8347CD830B38428B8CF78283803A770F0EE
+refs/System.Runtime.Serialization.Xml.dll,Third-party Microsoft .NET Framework Library,AE82C16C0DF4C6EE7C11336CD97A97FD56CB8C2B
+refs/System.Security.AccessControl.dll,Third-party Microsoft .NET Framework Library,40CA8AD796E318A43A2059D1EEE2AF465E888596
+refs/System.Security.Claims.dll,Third-party Microsoft .NET Framework Library,9018DC9E2C2A4EDC256CFCB71D2E13EC62CE0FA8
+refs/System.Security.Cryptography.Algorithms.dll,Third-party Microsoft .NET Framework Library,3D912AFCE44A7267889E0B0C6EC12B61A23D9252
+refs/System.Security.Cryptography.Csp.dll,Third-party Microsoft .NET Framework Library,D6338D8CFE83FC3F551F8D79595BCC8973C06D8F
+refs/System.Security.Cryptography.Encoding.dll,Third-party Microsoft .NET Framework Library,5846D2E1C738F1CC89F2918D224BA2ADE010ABFE
+refs/System.Security.Cryptography.Primitives.dll,Third-party Microsoft .NET Framework Library,D794271F20CF85DDA4CE74028E4548E608FC1B24
+refs/System.Security.Cryptography.X509Certificates.dll,Third-party Microsoft .NET Framework Library,9C6F377582EFBBBC534195D0D9A87144CDA75242
+refs/System.Security.Cryptography.Xml.dll,Third-party Microsoft .NET Framework Library,F747A126A4E0AAAA48AB55D14E74DEF71AB56244
+refs/System.Security.dll,Third-party Microsoft .NET Framework Library,B2FBC41BD6AB7D0DF20B44A90E129B68EB04FB22
+refs/System.Security.Principal.dll,Third-party Microsoft .NET Framework Library,91588A8A10FA1B2E59043410A1A8665F91868879
+refs/System.Security.Principal.Windows.dll,Third-party Microsoft .NET Framework Library,CD39C461BA3C083786E62106CE1E6EEE68A785DA
+refs/System.Security.SecureString.dll,Third-party Microsoft .NET Framework Library,CAA80A6724010468B9977954B422A4E116361105
+refs/System.ServiceModel.Duplex.dll,Third-party Microsoft .NET Framework Library,A4C5082DA5B0AAF973AA3C7333A437E19C43082F
+refs/System.ServiceModel.Http.dll,Third-party Microsoft .NET Framework Library,7855D4D9F4333DC9F1119EF8C531E14D23EA1A3A
+refs/System.ServiceModel.NetTcp.dll,Third-party Microsoft .NET Framework Library,71665E0739501F5D0C329C919302BF5B9D6940B8
+refs/System.ServiceModel.Primitives.dll,Third-party Microsoft .NET Framework Library,04991670F5BAEC62C43A9B7AE938C8EAA777807A
+refs/System.ServiceModel.Security.dll,Third-party Microsoft .NET Framework Library,B835563822FAA687C96B090DFE2CADC45BC0EFC3
+refs/System.Text.Encoding.dll,Third-party Microsoft .NET Framework Library,2E007309AAF4BE4BC5203BD29D0923D7F4ADA12E
+refs/System.Text.Encoding.Extensions.dll,Third-party Microsoft .NET Framework Library,DDF782D8038BA310AF803CEF99611ACE33E73705
+refs/System.Text.RegularExpressions.dll,Third-party Microsoft .NET Framework Library,27EE7C9C8F888D927FAA5A854F8D02AE3DF68403
+refs/System.Threading.dll,Third-party Microsoft .NET Framework Library,5B628C5D5F1AF422DAD619EAA771B35FBA10041E
+refs/System.Threading.Overlapped.dll,Third-party Microsoft .NET Framework Library,8C74AB2B566A5F0FF7FA813A271331B3DCBA7A53
+refs/System.Threading.Tasks.dll,Third-party Microsoft .NET Framework Library,773EC5CC581626BC5EA5BAAB2DAA4C4310BEBB22
+refs/System.Threading.Tasks.Parallel.dll,Third-party Microsoft .NET Framework Library,CF7B2991FE341646EE53D6A5B8FB8A682475B004
+refs/System.Threading.Thread.dll,Third-party Microsoft .NET Framework Library,962A493791E707CF26D687256E7D714E64C5BD8D
+refs/System.Threading.ThreadPool.dll,Third-party Microsoft .NET Framework Library,9721ADC6A1785078BD912D88BF315AA946D7D8D4
+refs/System.Threading.Timer.dll,Third-party Microsoft .NET Framework Library,D734072FD3CA010C6EE76F8F0C5F1A05AEDF3E04
+refs/System.Transactions.dll,Third-party Microsoft .NET Framework Library,5D76495E44C78841EAC057F97B5596E78B6714E3
+refs/System.ValueTuple.dll,Third-party Microsoft .NET Framework Library,9B4508C9DD085D6614E3F4D2E855B43AC298C284
+refs/System.Web.dll,Third-party Microsoft .NET Framework Library,C01B045BF3EEEB161455E6F9485E5787D07D7FDB
+refs/System.Xml.dll,Third-party Microsoft .NET Framework Library,48FA5497A31A76BE740F6477A1851CD4EFA8CDA8
+refs/System.Xml.Linq.dll,Third-party Microsoft .NET Framework Library,5757F51CC1FE02599A4878000405A9D91FFE1B09
+refs/System.Xml.ReaderWriter.dll,Third-party Microsoft .NET Framework Library,2797636A82DF25B332F90A7AE6321CA775CD0C7F
+refs/System.Xml.XDocument.dll,Third-party Microsoft .NET Framework Library,39E83F4569F08D2CB85199E0495C7B1F66DFE0E8
+refs/System.Xml.XmlDocument.dll,Third-party Microsoft .NET Framework Library,E771160DB64F893644DE4BE9F3097532856B73BC
+refs/System.Xml.XmlSerializer.dll,Third-party Microsoft .NET Framework Library,C23935CF0AAFD011DC495EDD36FB6FB9068C90BE
+refs/System.Xml.XPath.dll,Third-party Microsoft .NET Framework Library,17D3A7A6523168FDA023A2477CC68FAE55FAF31A
+refs/System.Xml.XPath.XDocument.dll,Third-party Microsoft .NET Framework Library,D980298828BA29C9B3B9336D7BA84DBA6D3E3898
+Serilog.AspNetCore.dll,Third-party ASP.NET Core Logging Library,B0B061CEC1254A507F2CDBBF070E75DC08CC7766
+Serilog.dll,Third-party .NET Logging Library,3EECE3266A6B1B28EDB8E12296C87DE83372D808
+Serilog.Extensions.Logging.dll,Third-party .NET Logging Library,22CE2537738F34160C72473F57D2CB16211CD8A5
+Serilog.Filters.Expressions.dll,Third-party .NET Logging Library,811C17CBE988F7329D027629D19E932F328C80AC
+Serilog.Settings.Configuration.dll,Third-party .NET Logging Library,F4F95FC1216AB9E8975307FEB6C0AC55CEDBD9FA
+Serilog.Sinks.Console.dll,Third-party .NET Logging Library,39692833AA959438F7A5FC4A8BFA1BB7B8F8F9BE
+Serilog.Sinks.File.dll,Third-party .NET Logging Library,F94B8D751FEFCD29D28875E291FD570E103D12D7
+Serilog.Sinks.Literate.dll,Third-party .NET Logging Library,22848B43D3B7F99CEA7B339E86FCB4C08D7E6E51
+Serilog.Sinks.RollingFile.dll,Third-party .NET Logging Library,653D77AD181A4CCF169DB699A0C011E3FFE4B218
+SimpleInjector.dll,Third-party .NET Dependency Injection Library,05663A319CDA586B2553347CE13A0BDB1449E3C9
+SimpleInjector.Integration.AspNetCore.dll,Third-party ASP.NET Core DI Library,4B96233D54AA7430BC73ED2E87C3C9D7DE168CA8
+Superpower.dll,Third-party .NET Text Parsing Library,2F3DE950D7F68A1AF78AD43246E177D8E39505C4
+Swashbuckle.AspNetCore.dll,Third-party ASP.NET Core Rest API Documentation Library,4A32FCF891812153918D4B80F18D87559858AC5F
+Swashbuckle.AspNetCore.Swagger.dll,Third-party ASP.NET Core Rest API Documentation Library,EB40BE3A7108045401E3A66D66A3227EA91EC9CE
+Swashbuckle.AspNetCore.SwaggerGen.dll,Third-party ASP.NET Core Rest API Documentation Library,AF921F3C8496D92A60A74F701EB8D5AC4B62C530
+Swashbuckle.AspNetCore.SwaggerUI.dll,Third-party ASP.NET Core Rest API Documentation Library,AF6F233F09BA439441E1ED0FA1ECD1A23BE62CBE
+System.AppContext.dll,Third-party Microsoft .NET Framework Library,9BF90CF805082CA610449D918E4EBA03B29FFFC8
+System.Buffers.dll,Third-party Microsoft .NET Framework Library,E523519ECE3200133C5077993920D14D436B8484
+System.Collections.Concurrent.dll,Third-party Microsoft .NET Framework Library,F4FC68C9E39BFF3AE4F2DD9CCF38D79BA6BBC130
+System.Collections.dll,Third-party Microsoft .NET Framework Library,AA6BDFCDEC841F11BB63C8BBFD2AB48C33478AEB
+System.Collections.Immutable.dll,Third-party Microsoft .NET Framework Library,7AE42F96E3348EEC36783C15AD5D9E453D232FAE
+System.Collections.NonGeneric.dll,Third-party Microsoft .NET Framework Library,76B165A84C381D55E47314CB8C301985D95B754E
+System.Collections.Specialized.dll,Third-party Microsoft .NET Framework Library,30F063CDAF94D19BDF7863D41D811A4CC6222CB1
+System.ComponentModel.Annotations.dll,Third-party Microsoft .NET Framework Library,8482E58549C667F092BCB9F09E9D876596EC3174
+System.ComponentModel.dll,Third-party Microsoft .NET Framework Library,57C182DD5EB8AD4A273DFDCB0035CB4E7F16CDE2
+System.ComponentModel.EventBasedAsync.dll,Third-party Microsoft .NET Framework Library,1346E0309CF0022206EAFD47B5A84B54AD06E50E
+System.ComponentModel.Primitives.dll,Third-party Microsoft .NET Framework Library,1C7133D29A2B6D020ED665ADE74A8F6FDC479FCE
+System.ComponentModel.TypeConverter.dll,Third-party Microsoft .NET Framework Library,C10573D553E945EA984E374EC9891AF5C4367596
+System.Console.dll,Third-party Microsoft .NET Framework Library,CAE808C588711D4557A89461E86DEC140DBFE6F5
+System.Data.Common.dll,Third-party Microsoft .NET Framework Library,4959ADADAFC7CE5876D69F0A6D8247960D3CB144
+System.Data.SqlClient.dll,Third-party Microsoft .NET Framework Library,5CA4F9EC5ACB9B5D9B4044F994D21870BCC4E954
+System.Diagnostics.Contracts.dll,Third-party Microsoft .NET Framework Library,A583278DDA043FFFD26526D4C131CBB05599D031
+System.Diagnostics.Debug.dll,Third-party Microsoft .NET Framework Library,EC021284AA401ACABE01828023AF8CF457F359D4
+System.Diagnostics.DiagnosticSource.dll,Third-party Microsoft .NET Framework Library,B4152FA3E69FA6FE574A9E4F8FF305C91A440557
+System.Diagnostics.FileVersionInfo.dll,Third-party Microsoft .NET Framework Library,12390D923CD3EE71B66799C0AECFD5BFCF8AA404
+System.Diagnostics.Process.dll,Third-party Microsoft .NET Framework Library,17058BFDE635DC091763C4F2CA95D4D25F1C1897
+System.Diagnostics.StackTrace.dll,Third-party Microsoft .NET Framework Library,54B3B8872DC2EEE3BBF2D04F8829ABA0BA5CEA54
+System.Diagnostics.TextWriterTraceListener.dll,Third-party Microsoft .NET Framework Library,3199BA75B6B7E86F3CCB28B6F6DC22DFABB84FCE
+System.Diagnostics.Tools.dll,Third-party Microsoft .NET Framework Library,2953EF6ACF57814198463E323FC118F6D50D78B0
+System.Diagnostics.TraceSource.dll,Third-party Microsoft .NET Framework Library,80447B97DC5FEB105DFA8E6A1B9B02450DA60265
+System.Diagnostics.Tracing.dll,Third-party Microsoft .NET Framework Library,662A45344E070860846E5A9904BF342F84A02910
+System.Drawing.Primitives.dll,Third-party Microsoft .NET Framework Library,1DCE37ECE60A2504C22E1C4CA1CBDF9335A6EE4F
+System.Dynamic.Runtime.dll,Third-party Microsoft .NET Framework Library,8AF8ED86C4095732EF3AF9832ACF9E63BA2ED0B1
+System.Globalization.Calendars.dll,Third-party Microsoft .NET Framework Library,A19927ECE9FE01019A2E0B6660F18A27E6338878
+System.Globalization.dll,Third-party Microsoft .NET Framework Library,F55A4093A1DB62035104224D2460283DFE6C9437
+System.Globalization.Extensions.dll,Third-party Microsoft .NET Framework Library,DC95AA8BE51C076303BC1C801963478B01671FC1
+System.IO.Compression.dll,Third-party Microsoft .NET Framework Library,75AD8441F4483ACC2ECF6E7BC29DC7AC94F1A053
+System.IO.Compression.ZipFile.dll,Third-party Microsoft .NET Framework Library,1A0D8B7725CF73EAC7386B3BC79F2EA05ECBA4CE
+System.IO.dll,Third-party Microsoft .NET Framework Library,6962E733DEA0D0ACBE218451979A3023236A2C02
+System.IO.FileSystem.dll,Third-party Microsoft .NET Framework Library,39153D9A53D354C15A736826423597EF5E16ABF8
+System.IO.FileSystem.DriveInfo.dll,Third-party Microsoft .NET Framework Library,153EC37CAE49860C7D8920F103A5B0922B2FDC65
+System.IO.FileSystem.Primitives.dll,Third-party Microsoft .NET Framework Library,EFE395B977F7B01360CD54FB873E25ECF81BA3CE
+System.IO.FileSystem.Watcher.dll,Third-party Microsoft .NET Framework Library,9885457C875BEBD2E9FD56119A8B471EA959AEF2
+System.IO.IsolatedStorage.dll,Third-party Microsoft .NET Framework Library,062EC241C387E742547E57485B8C08F672E5399F
+System.IO.MemoryMappedFiles.dll,Third-party Microsoft .NET Framework Library,3BBBB2F8566351FC99A1088B5F2330B5A224AE12
+System.IO.Pipes.dll,Third-party Microsoft .NET Framework Library,254140A5997671C3627F574648D3CFED1C348662
+System.IO.UnmanagedMemoryStream.dll,Third-party Microsoft .NET Framework Library,FB8F83E5A4D519A4C464B0ABC27ACDE6D5F3ACE3
+System.Linq.dll,Third-party Microsoft .NET Framework Library,5768939B4A4B227CF721359211BF733C1321082E
+System.Linq.Expressions.dll,Third-party Microsoft .NET Framework Library,3D59603D027EEEF6FC9093FD1D8829FBA5312C16
+System.Linq.Parallel.dll,Third-party Microsoft .NET Framework Library,07A692145300C3136502CF96CDF298524C43AE0B
+System.Linq.Queryable.dll,Third-party Microsoft .NET Framework Library,EE04FEC8B8B38E5F0A382FD59CF9064088D8EC2F
+System.Net.Http.dll,Third-party Microsoft .NET Framework Library,73C02F71F1A249AC545EF4911DEAC3D452D6A19C
+System.Net.NameResolution.dll,Third-party Microsoft .NET Framework Library,1B975252849685C138AF9528FBED71D6D9A182CF
+System.Net.NetworkInformation.dll,Third-party Microsoft .NET Framework Library,893D232C9C50DD3347D95A78478A98A2291BD41D
+System.Net.Ping.dll,Third-party Microsoft .NET Framework Library,8ADA11B5B3604B70724E6A4A15166885033AC1A3
+System.Net.Primitives.dll,Third-party Microsoft .NET Framework Library,ADD7838B56C29615683064F9C189BA582C879133
+System.Net.Requests.dll,Third-party Microsoft .NET Framework Library,764079DC2362B1C728A138D6F9BCFBDAA1B4A468
+System.Net.Security.dll,Third-party Microsoft .NET Framework Library,94AE6BBD324F5ECC8DDDED33476FD66B8637B7A5
+System.Net.Sockets.dll,Third-party Microsoft .NET Framework Library,323B76F96607C0F1740C41B2B65F9DD95D1F218D
+System.Net.WebHeaderCollection.dll,Third-party Microsoft .NET Framework Library,0A8A718C7855ACC68E77AF839E7DA0DDA403DC16
+System.Net.WebSockets.Client.dll,Third-party Microsoft .NET Framework Library,729724ADAD55598983D97E04B5059FA35112B505
+System.Net.WebSockets.dll,Third-party Microsoft .NET Framework Library,D0CCEA9A0A2F8AB51338AC94F08EC43D69725631
+System.Numerics.Vectors.dll,Third-party Microsoft .NET Framework Library,359F9F8A3E0EE63F9EB6BC56E3BAC300C731C080
+System.ObjectModel.dll,Third-party Microsoft .NET Framework Library,8FB91103EF95126BE625B699A0E9E8F69F59F288
+System.Reflection.dll,Third-party Microsoft .NET Framework Library,402FF2B244D5221275003ADFD473C4D33265357F
+System.Reflection.Extensions.dll,Third-party Microsoft .NET Framework Library,5558E8C817B1781D29CAF47640FF1F4FAFA56640
+System.Reflection.Metadata.dll,Third-party Microsoft .NET Framework Library,4EDAEBC5DBF09F337DABFC50EB1852214046900F
+System.Reflection.Primitives.dll,Third-party Microsoft .NET Framework Library,486847D07D13F19D8B909BDD41B93E08D08BA5AE
+System.Resources.Reader.dll,Third-party Microsoft .NET Framework Library,F8AEDD18DCBEB92D7CE6C39DDE257872DCB01B9E
+System.Resources.ResourceManager.dll,Third-party Microsoft .NET Framework Library,6588350A2EF5DCE24FF538CA8A90507E60A58939
+System.Resources.Writer.dll,Third-party Microsoft .NET Framework Library,E7F435FE00D9BB2E7B4BC2AA133582F8FD08957A
+System.Runtime.CompilerServices.Unsafe.dll,Third-party Microsoft .NET Framework Library,CAF661A9861E7F074FF98360E0557ADA0E0696F1
+System.Runtime.CompilerServices.VisualC.dll,Third-party Microsoft .NET Framework Library,546AC07323BBFA36F163A4B714E6C155FF0300BF
+System.Runtime.dll,Third-party Microsoft .NET Framework Library,8FDF7A76B8D4CE4DAA9A098A8C706DC140AF44F5
+System.Runtime.Extensions.dll,Third-party Microsoft .NET Framework Library,C88B2BA175245CBC85A859C0514F232B11C27C8A
+System.Runtime.Handles.dll,Third-party Microsoft .NET Framework Library,93D928496D21677E8BF68C8BE4DB3D08FB5E604F
+System.Runtime.InteropServices.dll,Third-party Microsoft .NET Framework Library,9681B57F1EEF215811E792F27C537609E17BFFA6
+System.Runtime.InteropServices.RuntimeInformation.dll,Third-party Microsoft .NET Framework Library,CC96C85CCBCE0B99D502488DF5BB8A7F1DF004C8
+System.Runtime.Numerics.dll,Third-party Microsoft .NET Framework Library,208899DF65436B0E74668ED58E6CF1870BAAE143
+System.Runtime.Serialization.Formatters.dll,Third-party Microsoft .NET Framework Library,4BA248F9C74D6EE24DFADA3A559C7671C7E0D117
+System.Runtime.Serialization.Json.dll,Third-party Microsoft .NET Framework Library,078E1C9B6D947FA3294773FC9BE4D8F360F717A7
+System.Runtime.Serialization.Primitives.dll,Third-party Microsoft .NET Framework Library,75580C3179E4FAEB5021957F346C75F054B2EAE2
+System.Runtime.Serialization.Xml.dll,Third-party Microsoft .NET Framework Library,FE1038CF1239D07416E8F65D1B20657DC90C04B5
+System.Security.AccessControl.dll,Third-party Microsoft .NET Framework Library,AB1897BC44DC91F8D5C1E37A8C342FA3CE2FCC9A
+System.Security.Claims.dll,Third-party Microsoft .NET Framework Library,4DFFE4E0047FE0923E06504E0EE1EFFAB4E566CB
+System.Security.Cryptography.Algorithms.dll,Third-party Microsoft .NET Framework Library,F5B41189096BAA757274B7519FE4C78BEB7D9A88
+System.Security.Cryptography.Csp.dll,Third-party Microsoft .NET Framework Library,8FAB8FDD98FB5017D7DFC3D6985CD1221C15B345
+System.Security.Cryptography.Encoding.dll,Third-party Microsoft .NET Framework Library,F8CA974F4BFDAAC79088ECFEABCBC550507DF230
+System.Security.Cryptography.Primitives.dll,Third-party Microsoft .NET Framework Library,40A7F1823F4829D893586EFF06F772EA85F9924C
+System.Security.Cryptography.X509Certificates.dll,Third-party Microsoft .NET Framework Library,67F7271397ABB00BF86F28A475963459C928DA91
+System.Security.Cryptography.Xml.dll,Third-party Microsoft .NET Framework Library,FEB437ED181AF02093BCBE721D4C1ED28793F97A
+System.Security.Principal.dll,Third-party Microsoft .NET Framework Library,2A59E0D480C36D562B4D6323C6146539C19CCAD8
+System.Security.Principal.Windows.dll,Third-party Microsoft .NET Framework Library,35274E9C5F8692728C1548EF7D296C239FCCF77A
+System.Security.SecureString.dll,Third-party Microsoft .NET Framework Library,25F6FC725DB04E6AE9D15CA7241681D4829D022A
+System.Text.Encoding.CodePages.dll,Third-party Microsoft .NET Framework Library,48A7A46827ED0F797B36BAEC8F57FB98DE541524
+System.Text.Encoding.dll,Third-party Microsoft .NET Framework Library,B7507CDDD757C9753350EBCEB766DA65E3463023
+System.Text.Encoding.Extensions.dll,Third-party Microsoft .NET Framework Library,E19C1A7B7BBBCD4CA8CC4DB08C128340B85D4D2D
+System.Text.Encodings.Web.dll,Third-party Microsoft .NET Framework Library,2764EC5A271D02B546F73887047245052D29041C
+System.Text.RegularExpressions.dll,Third-party Microsoft .NET Framework Library,3CCDB0C251DD4A1A0B0C25B43C459491BFF126EE
+System.Threading.dll,Third-party Microsoft .NET Framework Library,AFBBB911CE00E8602EBAFC97857964D4B0FD0917
+System.Threading.Overlapped.dll,Third-party Microsoft .NET Framework Library,1FB162B6107A1132EA2ED56EF389A92779CB4138
+System.Threading.Tasks.dll,Third-party Microsoft .NET Framework Library,A85A5BA2165824674BD67E430F4D173328FB5B13
+System.Threading.Tasks.Extensions.dll,Third-party Microsoft .NET Framework Library,883476A0443325649908D2AA5AE7AC4ED6B467B1
+System.Threading.Tasks.Parallel.dll,Third-party Microsoft .NET Framework Library,A745101B02E26DA0DE6729744F69B4F81A956E96
+System.Threading.Thread.dll,Third-party Microsoft .NET Framework Library,36D0D54206CA6FA0ADF27C50E82C24FBCA663BF1
+System.Threading.ThreadPool.dll,Third-party Microsoft .NET Framework Library,4E83D0669FFA87FA09D91E0928A0EF9817FDABF5
+System.Threading.Timer.dll,Third-party Microsoft .NET Framework Library,1D3E33372CBAD5164B34E15C2C0EF7B361245ACE
+System.ValueTuple.dll,Third-party Microsoft .NET Framework Library,07FFD0658DADE0EF76482CA368E388808959F6BD
+System.Xml.ReaderWriter.dll,Third-party Microsoft .NET Framework Library,D3483746766569F997542C566A83194DC9DF564A
+System.Xml.XDocument.dll,Third-party Microsoft .NET Framework Library,1C0D06194F15E4B01D8C3F76FC5078B3C05DA4AF
+System.Xml.XmlDocument.dll,Third-party Microsoft .NET Framework Library,1B0C08DF3251103E8DC45FA6A05E18B63C9584E4
+System.Xml.XmlSerializer.dll,Third-party Microsoft .NET Framework Library,4B68C1AC63B138FB391AD9E785ADBEE408F08211
+System.Xml.XPath.dll,Third-party Microsoft .NET Framework Library,AC9875EE7A1BAB3A90A4A1524E4896C47D62077C
+System.Xml.XPath.XDocument.dll,Third-party Microsoft .NET Framework Library,2FBC87A7F085BFB489898EF88FD1726F5A897BF6
+zh/Hangfire.Core.resources.dll,Third-party .NET Job Processing Chinese Resource Library,0F4FFCB3B52644623AA162570BA5004F20B7112B
+Aristocrat.CDS.Common.Host.dll,ATLS Core Hosting Library,0F2F0CBA7254CAC992BAFF0D725B15E0F46C4697
+Aristocrat.CDS.Common.Host.xml,XML Help File,DD30A8EA1A6CB3A3FDF92CEE1AC37931D7332767
+Aristocrat.CDS.Omega.Host.Console.exe,Omega Host Communication Service,4E54E16FAF9E1D307FA84AAAED85BFEFA1395492
+Aristocrat.CDS.Omega.Host.Console.xml,XML Help File,F1DFC95A556FB1DC2D4CA7A17C99311B5CEBC009
+Aristocrat.CDS.Omega.Host.dll,Omega Host Communication Wrapper Library,631E5518EE0B62D53242BC2D5F81E35287632FBF
+Aristocrat.CDS.Omega.Host.xml,XML Help File,307B81C157248824351D75126CD0984745C08F1A
+Microsoft.Extensions.CommandLineUtils.dll,Third-party Command Line Parsing Library,4BDFC3614B70F3090FC20677F10021F521F53EC0
+Omega.dll,Omega Communication Library,0E8784F3C0E30B67A12AEA9DE31EC5DA19167EAA
+omega.pfx,Omega Certificate,B6D800F70BCCFD203400B3181D6BD47EEC9221DC
+Serilog.Enrichers.Environment.dll,Third-party .NET Logging Library,76CC52E5A952F99E42F0B1128D34EAA326A81B98
+Serilog.Enrichers.Process.dll,Third-party .NET Logging Library,8B01D21ADD43E518349C0C21F647685B1E23FB6C
+Serilog.Enrichers.Thread.dll,Third-party .NET Logging Library,9A7149C192EAF015B1141B9032F82F9539DC2420
+Serilog.Extensions.Logging.dll,Third-party .NET Logging Library,7298CC525803AD72BA022A5539B3E2F88C4BBC36
+Serilog.Extensions.Logging.File.dll,Third-party .NET Logging Library,AA29729FDA9CBF1AD65721148600621964CA131E
+Serilog.Formatting.Compact.dll,Third-party .NET Logging Library,DB65AD23E553888898DCCF677EAB5D9874EF0BB9
+Serilog.Settings.AppSettings.dll,Third-party .NET Logging Library,3CF9A8754E21ECD24B1C4BE2F205096E04B60562
+Serilog.Sinks.Async.dll,Third-party .NET Logging Library,85CA414E841EF2E745160B03F25EF36E3227DD2C
+Serilog.Sinks.Console.dll,Third-party .NET Logging Library,51666BCEC96F529B1A28B72DB54CC7FCDF68441D
+Serilog.Sinks.EventLog.dll,Third-party .NET Logging Library,CE6FBE80D88A7682106B744270F0015481F6F7E5
+SslSocketCS.dll,Omega SSL Communication Library,12E37D858AADDE0C2FF3724803C78BAF32D335A1
+System.Configuration.ConfigurationManager.dll,Third-party Microsoft .NET Framework Library,B31F97AE1DCA5FA25A475E3BBCB84F1EA44A9397
+Topshelf.dll,Third-party Windows Service Librabry,591C40D9A015D5724277326CEAA2E2EED394EE82
+Aristocrat.CDS.Management.Api.deps.json,Assembly Dependencies,2A83FCB452B53B839C666BAB5A9184C58B179064
+Aristocrat.CDS.Management.Api.exe,Management Application Rest API Service,49EE736CD15AFC25761493A10417A8AF89DA7CAF
+Aristocrat.CDS.Management.Api.xml,XML Help File,F6E2B34A2A79208E4BFA9ACCB0E3C674E9EE2264
+Aristocrat.CDS.Management.Domain.dll,Management Application Object Model Library,B75E923B41386355FB2E8AC5669EB56034911730
+Aristocrat.CDS.Management.Domain.xml,XML Help File,5FD6DF8E5D3D7CE795F206877D5B86A99DD24AD8
+Aristocrat.CDS.Management.Infrastructure.dll,Management Application Infrastructure Library,41195E08FBD5AB996BA74BB3B4D43BED0FE2463D
+Aristocrat.CDS.Management.Infrastructure.xml,XML Help File,95618F8D0AB008F5B846C877148D9181568F97C3
+refs/System.DirectoryServices.AccountManagement.dll,Third-party Microsoft .NET Framework Library,DA85CAC63FB897D2B9C4B27A1E7147475AFE6337
+Aristocrat.Atls.Manufacturing.ReportExecution.dll,Manufacturing Computer Pre/Post Play Report Generator,62E9692A284A1C927B5B1AE4E363284F3A4EAAE7
+Aristocrat.Atls.Manufacturing.ReportExecution.xml,XML Help File,DAB8637A5222341D4993C47E68222BA4F2200DBA
+Aristocrat.CDS.Manufacturing.API.deps.json,Assembly Dependencies,6364BB37845316D9CA89A2E79007620121CB491D
+Aristocrat.CDS.Manufacturing.API.exe,Manufacturing Computer Rest API Executable,EBAC017C335693E884D39B8A77FE40B148BD22D5
+Aristocrat.CDS.Manufacturing.API.xml,XML Help File,87C522448E553FF4128E27A03450884AEEBF1D37
+Aristocrat.CDS.Manufacturing.Background.dll,Manufacturing Computer Background Job Processing Library,6ACE7F928C0B73FF0EE4409F3C571AE8A7478273
+Aristocrat.CDS.Manufacturing.Background.xml,XML Help File,AD7E34F96715933D71C562549786A8CCAE84782E
+Aristocrat.CDS.Manufacturing.Domain.dll,Manufacturing Computer Object Model Library,B1C98C7151C2C4BC64E3C33BB14E202D1836428B
+Aristocrat.CDS.Manufacturing.Domain.xml,XML Help File,234BA5872371947BD73967C13382ECDC69166E98
+Aristocrat.CDS.Manufacturing.Infrastructure.dll,Manufacturing Computer Infrastructure Library,E21E800FBD50EA43DF03FB032C422C1103572E26
+Aristocrat.CDS.Manufacturing.Infrastructure.xml,XML Help File,EBB496D69F9FB85202699FBDDD4A42ABD6E6ADEB
+PRNGLib.dll,Random Number Genration Library,E9C4EC4150FAC1C1143F010E883E981FD0412176
+Aristocrat.CDS.Common.Contracts.dll,ATLS Core Definition Library,7677FAC1ACEA1D00E23132291B93DEB968891580
+Aristocrat.CDS.Common.Infrastructure.dll,ATLS Core Infrastructure Library,860D72CFB99229DDE73AEEBE3E7090966C2E271B
+Aristocrat.CDS.Management.Client.exe,ATLS Mananagement Application Client Executable,5877B5339C0C7C84EF5ACD2C4E1C8ADB6F2AD348
+Aristocrat.CDS.Management.Client.xml,XML Help File,18FCCEEEAB1EF29E20DC96732E56BF3A047C563C
+Aristocrat.CDS.Management.Domain.dll,Management Application Object Model Library,F032364D8B127CECFBBBB9CDEAFDA28268E675F9
+Aristocrat.MVVM.dll,Aristocrat Model-View-ViewModel Library,E5BF8B5CE016A72446EEADB24A5A255F0FC67117
+Aristocrat.MVVM.xml,XML Help File,7F50A11D0FE38A81CB65AAEBD9B5D82DB98852D1
+en/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,279046BFCF43B41933C7159F56446DED0A4AA763
+en/System.Windows.Interactivity.resources.dll,Resource Assembly,D70209525822D145177AC0F15147D75EEB4B2EA2
+es/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,925C88EC462E88E4AF2418615664F50F618C553F
+es/System.Windows.Interactivity.resources.dll,Resource Assembly,9AA0A4730FC2405D69302D7BB45EB6DE6B5B969A
+fr/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,EC4635C1B2D093FAADFB009FE6675DEEDA74B48A
+fr/System.Windows.Interactivity.resources.dll,Resource Assembly,8C5138730885E65CCE02349DC060117F29E4682C
+it/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,C0D81FCE71F0FA15EB152C2A0A391293FE758C90
+it/System.Windows.Interactivity.resources.dll,Resource Assembly,8E29C01296C296051FA265C6A815AFC02969271F
+ja/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,1FD5F8D5FF9A57279D05497479AB5289364DC2DB
+ja/System.Windows.Interactivity.resources.dll,Resource Assembly,B7DE388FEC31CABDB711644E20DF3BE1090B58D8
+ko/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,21BC4BD1582D3CDFD76AAFF3B38A62BD8D8182BC
+ko/System.Windows.Interactivity.resources.dll,Resource Assembly,64B70F259CFCAEEA1FDDCF30615F066D0BD0374A
+Microsoft.Diagnostics.Tracing.EventSource.xml,XML Help File,317E17A2934FC68BEC6ACD16A3A39205281FA637
+Microsoft.Expression.Interactions.dll,Third-party WPF Expression Blend SDK Library,AACE8D26358D9829F0E6632BDDF183534ACFEC0D
+Microsoft.Extensions.Logging.Abstractions.xml,XML Help File,77DF77DB7C260359E65FE21A5D4AD484E4DA3C1B
+Microsoft.Extensions.Logging.xml,XML Help File,E6336746FFF06EA052A81BF8E941DE9CABEC4836
+Microsoft.Win32.Primitives.dll,Third-party Microsoft .NET Framework Library,89A8DF867CCDF916881234DB9DE45ED4C57E5B0B
+Newtonsoft.Json.Bson.xml,XML Help File,65785D1B6E9F79CD897CD18AEB4A2FD8612A61BF
+Newtonsoft.Json.xml,XML Help File,BB17DA813966EA01437F608847D5AB70F82893F3
+Polly.xml,XML Help File,A3D30CFCE80AB6BEEFA8CDCC20A774307134BDE4
+Refit.xml,XML Help File,74353186983CE10F29FF2BBA5BE57EE17A573CB7
+ru/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,6B82871746C406396E003F1F16EFA2D340202BA3
+ru/System.Windows.Interactivity.resources.dll,Resource Assembly,196D4C3D51FB11148255E58FF4B06ECF075093E6
+Serilog.Extensions.Logging.xml,XML Help File,99BF25B76ECDCD972AE05E50055A490443DE5495
+Serilog.Sinks.File.xml,XML Help File,28FFE419BD26083A76588205261D7A47D2CC28CE
+Serilog.Sinks.RollingFile.xml,XML Help File,DB27C10DC46B6D632E55698861B2AE0B2C4DFC9E
+Serilog.xml,XML Help File,163FBFF1F5AED740D96724612EBB22FEBC6D381B
+Superpower.dll,Third-party .NET Text Parsing Library,264ABA7A651E707E9CDEDCC4655A062B8A16B8C5
+Superpower.xml,XML Help File,BB312A55808D4D02472250CEEDDCDE2B330BAA41
+System.AppContext.dll,Third-party Microsoft .NET Framework Library,AB92034645C77737B6EF482E18296E896BEA3751
+System.Collections.Concurrent.dll,Third-party Microsoft .NET Framework Library,3825F2B13D43F34330BC278AEEEFBBBFD95239CC
+System.Collections.dll,Third-party Microsoft .NET Framework Library,E093758CEC19749F1D92B280B42AEE86D4224FDC
+System.Collections.NonGeneric.dll,Third-party Microsoft .NET Framework Library,A36BC9FD0FD5319A36C523AE0C565E6670E6A403
+System.Collections.Specialized.dll,Third-party Microsoft .NET Framework Library,49ECA7AC3D34CE69A1D48C0BE56CDD13995ADBB3
+System.ComponentModel.dll,Third-party Microsoft .NET Framework Library,08BADAF0444CA34230D82AF4590F44C7ADE78533
+System.ComponentModel.EventBasedAsync.dll,Third-party Microsoft .NET Framework Library,6149C788EE9CB3081B8E794E1F1AD87606B8EB5E
+System.ComponentModel.Primitives.dll,Third-party Microsoft .NET Framework Library,68847BAE366D1FAD430271F88A3DB0824C86DE8C
+System.ComponentModel.TypeConverter.dll,Third-party Microsoft .NET Framework Library,4DD547BF05834D626676A52B245065B7001593BB
+System.Console.dll,Third-party Microsoft .NET Framework Library,E6039EB23D3A10FF31E40851EF0DD594C5689712
+System.Data.Common.dll,Third-party Microsoft .NET Framework Library,01B2A93BC4CA69818D3BC9A7B5DCA58CDB5380CB
+System.Diagnostics.Contracts.dll,Third-party Microsoft .NET Framework Library,74CC272500C692CCD2E143E7C176B9532ACF05E3
+System.Diagnostics.Debug.dll,Third-party Microsoft .NET Framework Library,2A960AEF8BC74C7893DD225398298CE8B912AB10
+System.Diagnostics.DiagnosticSource.dll,Third-party Microsoft .NET Framework Library,85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B
+System.Diagnostics.DiagnosticSource.xml,XML Help File,31D457E46227F16286F7B52B728208DE8970ABBF
+System.Diagnostics.FileVersionInfo.dll,Third-party Microsoft .NET Framework Library,07A9A5F273A65796AE77416A0D35905E949E3257
+System.Diagnostics.Process.dll,Third-party Microsoft .NET Framework Library,B6A1B38ADF9F18659CD4E28F979BDA187B705E77
+System.Diagnostics.StackTrace.dll,Third-party Microsoft .NET Framework Library,CB5D932C0DA3415ACC0002F63EDC11D5AD8536F0
+System.Diagnostics.TextWriterTraceListener.dll,Third-party Microsoft .NET Framework Library,34A84E6878172DF939F9748279490E1EB4533926
+System.Diagnostics.Tools.dll,Third-party Microsoft .NET Framework Library,32FB1BD024BE0B7A2AF182739FD384BD74610844
+System.Diagnostics.TraceSource.dll,Third-party Microsoft .NET Framework Library,B0604C38399452D019373E39CF097188A7583C0D
+System.Diagnostics.Tracing.dll,Third-party Microsoft .NET Framework Library,EB907BD53F78B91E5FCF27FD76050BD682D80E0C
+System.Drawing.Primitives.dll,Third-party Microsoft .NET Framework Library,3B8F870B0DA16BD6BDC6104AA44D036B24B61AC0
+System.Dynamic.Runtime.dll,Third-party Microsoft .NET Framework Library,D24AFD30A97A273077BB8A2869CA8DC1E3E17BA4
+System.Globalization.Calendars.dll,Third-party Microsoft .NET Framework Library,884DAF45F341105D3B9340A4A206E27833D020BC
+System.Globalization.dll,Third-party Microsoft .NET Framework Library,69E6BF884F40D6D78E3C4F5F1D0103A666931619
+System.Globalization.Extensions.dll,Third-party Microsoft .NET Framework Library,763B8B11EFF228440692EF7A048CD7FE52E4D016
+System.IO.Compression.dll,Third-party Microsoft .NET Framework Library,FE2741C8E9254C340005B509F027CBC8FB81B786
+System.IO.Compression.ZipFile.dll,Third-party Microsoft .NET Framework Library,2991E215A479EA048CB53F328B740DB610547B75
+System.IO.dll,Third-party Microsoft .NET Framework Library,1E76B32A88CB2FB7BD0CAF962636058426DD6230
+System.IO.FileSystem.dll,Third-party Microsoft .NET Framework Library,3372D225504CF30DF6D3FD0E9B70F07BA34A8166
+System.IO.FileSystem.DriveInfo.dll,Third-party Microsoft .NET Framework Library,09BEB5E11A689205694DC3EE3BDF6A66B6EEBFB0
+System.IO.FileSystem.Primitives.dll,Third-party Microsoft .NET Framework Library,FE6726705FB76BB64C11C787599CB044799A3F6C
+System.IO.FileSystem.Watcher.dll,Third-party Microsoft .NET Framework Library,FBF23BF89732B8B32CBC123830F20B2C2147EA60
+System.IO.IsolatedStorage.dll,Third-party Microsoft .NET Framework Library,94AD0C9E7B3FC0B3C56AC7574F429A43E6DB67FE
+System.IO.MemoryMappedFiles.dll,Third-party Microsoft .NET Framework Library,804333E184D8C7F306BEDD5A86E9134461C0226A
+System.IO.Pipes.dll,Third-party Microsoft .NET Framework Library,86947F12790E70BAFD4C3F72CAD8E386A6015D04
+System.IO.UnmanagedMemoryStream.dll,Third-party Microsoft .NET Framework Library,9CF171C463F11575FE0A7A507101DA6177CD10FC
+System.Linq.dll,Third-party Microsoft .NET Framework Library,4C5AE1E9E7E4C8147F913C350A9B4561CA3F1851
+System.Linq.Expressions.dll,Third-party Microsoft .NET Framework Library,CF0EF60AA6D84C787662D84596886CCDE9CD9AE5
+System.Linq.Parallel.dll,Third-party Microsoft .NET Framework Library,B300AC53CCEBC21CFF5AE5C2D3C4478B1C9DB93E
+System.Linq.Queryable.dll,Third-party Microsoft .NET Framework Library,A173DFDD43BAAC0BBC27E95C271459DE5C31523B
+System.Net.Http.dll,Third-party Microsoft .NET Framework Library,72113BCA0E3EA518C859A1D6362144DE199151B2
+System.Net.NameResolution.dll,Third-party Microsoft .NET Framework Library,40986BF1BAAD251E5F0354479F4D6CAE5CF51AB7
+System.Net.NetworkInformation.dll,Third-party Microsoft .NET Framework Library,4AE6D128839CEB97D78DDDD09A481542F595D9BE
+System.Net.Ping.dll,Third-party Microsoft .NET Framework Library,BD3A21AD93645F3B2000AD2713B63286F1F5892C
+System.Net.Primitives.dll,Third-party Microsoft .NET Framework Library,8B4168EF54203634F9475D0D2FBF64E349D975D0
+System.Net.Requests.dll,Third-party Microsoft .NET Framework Library,B3EE79E8506F213B931C87B830F08C4861434F8B
+System.Net.Security.dll,Third-party Microsoft .NET Framework Library,54D6D1E92686035E4239DDE62DE7E8D34EB92F6D
+System.Net.Sockets.dll,Third-party Microsoft .NET Framework Library,5F47E76432854AECAE121D603F20A35628BB6C16
+System.Net.WebHeaderCollection.dll,Third-party Microsoft .NET Framework Library,EA53DE8141E32303C5B336D71AC4A48A97497C73
+System.Net.WebSockets.Client.dll,Third-party Microsoft .NET Framework Library,21FF3B3655A69E89CAA6BC7B61F07DDEDEE66853
+System.Net.WebSockets.dll,Third-party Microsoft .NET Framework Library,4A0F855C7214785CCB18A25D0EEFEFE763BB4053
+System.ObjectModel.dll,Third-party Microsoft .NET Framework Library,2E7BA0A826D71E0DF7DB65B17F69A9C0E1B27D07
+System.Reflection.dll,Third-party Microsoft .NET Framework Library,7A9F0D0BF43EA286D029741B0E848BA7482B29BE
+System.Reflection.Extensions.dll,Third-party Microsoft .NET Framework Library,230B8DD7B4646806D9C8726BC0A4E5DAB002A682
+System.Reflection.Primitives.dll,Third-party Microsoft .NET Framework Library,C815033CBE3854BFF755008F5AEDCA177CBA9F8E
+System.Resources.Reader.dll,Third-party Microsoft .NET Framework Library,C9C1ECDEE036A98E43490F77EA92D710C42EC739
+System.Resources.ResourceManager.dll,Third-party Microsoft .NET Framework Library,EA7D465DC43506F5743BB083F30DE72DB30ADA81
+System.Resources.Writer.dll,Third-party Microsoft .NET Framework Library,971C1F0F83F7BD7D8D79FA26CC9FA1BE744022FF
+System.Runtime.CompilerServices.VisualC.dll,Third-party Microsoft .NET Framework Library,613EB6B908A126EEE446D566DBC5D78A1DD4D847
+System.Runtime.dll,Third-party Microsoft .NET Framework Library,AA4CAF5B09A654131B37FA68725025FC472FB033
+System.Runtime.Extensions.dll,Third-party Microsoft .NET Framework Library,23CD9C36B812455B373614A712F97D40BE46C16C
+System.Runtime.Handles.dll,Third-party Microsoft .NET Framework Library,274792970CB06A85D16D8B526D84292C65C524CA
+System.Runtime.InteropServices.dll,Third-party Microsoft .NET Framework Library,E96928860122CAA9120203F76F336B56819D7E23
+System.Runtime.InteropServices.RuntimeInformation.dll,Third-party Microsoft .NET Framework Library,643A172EA8F2C5A36C7B4CAEC0327F7B6B90B366
+System.Runtime.Numerics.dll,Third-party Microsoft .NET Framework Library,E9DD62086484548DBA92411F5BEB98A08D95CFBB
+System.Runtime.Serialization.Formatters.dll,Third-party Microsoft .NET Framework Library,47985C3ED054C2FDDC8D5D213CFDDB2CA022CECD
+System.Runtime.Serialization.Json.dll,Third-party Microsoft .NET Framework Library,92F6B7A9B21C8F40354BC1890C22C820C5474EBC
+System.Runtime.Serialization.Primitives.dll,Third-party Microsoft .NET Framework Library,6F382D6502A2FCC94EC84DD138D1DA878AFF5175
+System.Runtime.Serialization.Xml.dll,Third-party Microsoft .NET Framework Library,4AD4FF6B4987F5D53247E20DC210CED94BA86E95
+System.Security.Claims.dll,Third-party Microsoft .NET Framework Library,0241685476C86655461B71CAE9A8E7ED71B3FC4E
+System.Security.Cryptography.Algorithms.dll,Third-party Microsoft .NET Framework Library,22A361B0586B1AC08A947DE7B6615BA96E448413
+System.Security.Cryptography.Csp.dll,Third-party Microsoft .NET Framework Library,183A7DECB5FFFC45355082DEB9535E11FD979953
+System.Security.Cryptography.Encoding.dll,Third-party Microsoft .NET Framework Library,617E2BAAC8B0031B3244CB6F251882E222A1380B
+System.Security.Cryptography.Primitives.dll,Third-party Microsoft .NET Framework Library,17284A44D29BBBEB532AACC60E250186DF3E1DEE
+System.Security.Cryptography.X509Certificates.dll,Third-party Microsoft .NET Framework Library,B64ADC3048315DD1217A5DB3BF32CEDC8BD25C22
+System.Security.Principal.dll,Third-party Microsoft .NET Framework Library,FF6997FC099ED64756CC44EB133A5885DBDDA843
+System.Security.SecureString.dll,Third-party Microsoft .NET Framework Library,5DAECEDDA5C5C1A7A5DA92CA1240F36AEEB6A00F
+System.Text.Encoding.dll,Third-party Microsoft .NET Framework Library,7CDEC468D072C8C20D720F57EB634BA74303F4BF
+System.Text.Encoding.Extensions.dll,Third-party Microsoft .NET Framework Library,0E01D3D284BA2745DC4C2BE16B0599D3CB31A5B5
+System.Text.RegularExpressions.dll,Third-party Microsoft .NET Framework Library,79063D2EDF26F28191017842CFF820EE5930354B
+System.Threading.dll,Third-party Microsoft .NET Framework Library,B06E56F7E49915E9099FA0EAE3A5EEBAC1FEB735
+System.Threading.Overlapped.dll,Third-party Microsoft .NET Framework Library,63D1806101E18B389776F4799372EA4CC5E2D0B3
+System.Threading.Tasks.dll,Third-party Microsoft .NET Framework Library,2B2683E81092D6B1ADE1BB2F39112A9198C0CA02
+System.Threading.Tasks.Parallel.dll,Third-party Microsoft .NET Framework Library,1D7401A9F89299061FCAA0A4603B54CD3EE469C3
+System.Threading.Thread.dll,Third-party Microsoft .NET Framework Library,78B5B4BE92F14F500D2F864AA2361315775680B1
+System.Threading.ThreadPool.dll,Third-party Microsoft .NET Framework Library,2968E3F41FBC11A5780AF478C098474FDFFBAC08
+System.Threading.Timer.dll,Third-party Microsoft .NET Framework Library,81ECBFD83B7CFAD7BD6EE0364767CA9983F0D41A
+System.ValueTuple.dll,Third-party Microsoft .NET Framework Library,05944BDEA414408F409CE193B3947EC30E931708
+System.Windows.Interactivity.dll,Third-party WPF Expression Blend SDK Library,CE6C4C18CF638F980905B9CB6710EE1FA73BB397
+System.Xml.ReaderWriter.dll,Third-party Microsoft .NET Framework Library,BAAAEF2E1D5A1AAA2B4B044D1F95EA91FBA8AECC
+System.Xml.XDocument.dll,Third-party Microsoft .NET Framework Library,AF71B0BC8099F7833CBF68A469EE6798973B2F9E
+System.Xml.XmlDocument.dll,Third-party Microsoft .NET Framework Library,19D6B05121A88B3E555A398C0E8FF563B41C5AAB
+System.Xml.XmlSerializer.dll,Third-party Microsoft .NET Framework Library,D6F2680846E3A278CD120C30A4B5B0825BFFA4F4
+System.Xml.XPath.dll,Third-party Microsoft .NET Framework Library,2CFF02ED5C45E743AF1D0DE805D65A3F6F372D85
+System.Xml.XPath.XDocument.dll,Third-party Microsoft .NET Framework Library,1A91DFBD0AADA47209E3817B1EEAB92788B5FC28
+zh-Hans/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,E6640187F61B52C58C59429E62B99359EBA9023F
+zh-Hans/System.Windows.Interactivity.resources.dll,Resource Assembly,733D145D88A2A8033C1841ABA3757D3A32952592
+zh-Hant/Microsoft.Expression.Interactions.resources.dll,Resource Assembly,3C104C2E8BCF04BFE33C564DE7B0DA8B131FA9BC
+zh-Hant/System.Windows.Interactivity.resources.dll,Resource Assembly,3B4202E7CE2DBF067D72F3ED67CDCFF31C615E2B
